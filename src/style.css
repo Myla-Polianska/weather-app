@@ -26,7 +26,7 @@ table {
     
     width: 100%;
     font-size: 32px;
-border-radius: 15px;
+    border-radius: 15px;
     border: #42A5F5 solid;
     background-color: #fff;
     
@@ -70,3 +70,12 @@ h2{
     color: #42A5F5;
     
 }
+
+.gitHub{
+    margin-top: 10px ;
+    margin-left: 0;
+    padding-left: 0;
+    font-size:18px ;
+    color: #42A5F5;
+}
+
